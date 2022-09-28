@@ -20,4 +20,5 @@ Para la parte JPA, está definido en un fichero xml la unidad de persistencia y 
 | Presentación | Service to Worker, Dispatcher View, Context | Service to Worker |
 
 ### Modelo Entidad-Relación:
-![solarized dualmode](https://github.com/ChristianEG98/Actuallys-Forecast/blob/main/public/img/Example%20Screenshot.png)
+![solarized dualmode](https://github.com/ChristianEG98/Modelado-de-Software/blob/main/Videogames%20Store/image/Entidad-Relaci%C3%B3n%201.jpg)
+![solarized dualmode](https://github.com/ChristianEG98/Modelado-de-Software/blob/main/Videogames%20Store/image/Entidad-Relaci%C3%B3n%202.jpg)
