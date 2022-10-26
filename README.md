@@ -1,5 +1,5 @@
 # Modelado-de-Software
-Proyecto "Videogames Store" de la asignatura Modelado de Software (Curso 2021/22) para la gestión de una tienda de videojuegos.
+Proyecto "Videogames Store" de la asignatura Modelado de Software - MS - FDI - UCM - (Curso 2021/22) para la gestión de una tienda de videojuegos.
 
 ### Arquitectura:
 Multicapa (MVC, Modelo-Vista-Controlador) con Integración (Modelo), Negocio (Controller) y Presentación (View):
